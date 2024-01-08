@@ -18,6 +18,6 @@ Step 2: Unzip the file and copy it next to the script.
 
 Step 3: Use the <span>convert.</span>py script to convert the dictionary. It needs 2 arguments, the input file and the output.  
 
-> python3 ./convert.py ./abcabcabcd-124154256-2aoaib.txt ./output.csv
+> python3 ./convert.py ./dict_cc_dictionary.txt ./output.csv
 
 Step 4: Now you can import the output.csv file into LinguaCafe on the Admin->Dictionaries page. Make sure you use "," character as a delimiter.
